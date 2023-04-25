@@ -8,12 +8,12 @@ Profile picture - https://www.forbesindia.com/media/images/2022/Aug/img_192351_v
 #Education
 
 
-|Academic Year|Standard|Place|
-|-------------|--------|-----|
-|2008-2012|1st - 4th|MSS school Kishangarh|
-|2012-2014|5th - 6th|St gregorios sr sec school udaipur|
-|2014-2021|6th - 12th|St Mary's convent sr sec school jaipur|
-|2022-2026|B.Tech|MnC Indian Institute of Technology Goa|
+|Academic Year| Standard |Place|
+|-------------|----------|-----|
+|  2008-2012  |1st - 4th |MSS school Kishangarh|
+|  2012-2014  |5th - 6th |St gregorios sr sec school udaipur|
+|  2014-2021  |6th - 12th|St Mary's convent sr sec school jaipur|
+|  2022-2026  |  B.Tech  |MnC Indian Institute of Technology Goa|
 
 # Courses @IIT Goa
 
@@ -25,6 +25,7 @@ Profile picture - https://www.forbesindia.com/media/images/2022/Aug/img_192351_v
     ELPP  : English_Neerja_Raghavan
     MC100 : Mathematics_Kalpesh_haria
     BIO101: Sreenath Balakrishnan
+    PH101 : Physics_Sudipta_kanungo
 
 # Hobbies & Interests
 
